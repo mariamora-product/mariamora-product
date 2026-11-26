@@ -19,7 +19,7 @@
 <br />
 
 <h3 align="center">AI Lab</h3>
-<p align="center">Independent product explorations, from problem framing and design to functional implementation with AI.</p>
+<p align="center">Independent products, designed end to end and built with AI.</p>
 
 <p align="center">
   <a href="https://humain-demo.pages.dev"><img src="assets/card-humain-2.png" alt="Humain: team costs and approvals for digital services companies. Live demo" width="32%" /></a>
@@ -33,9 +33,9 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <a href="#tools"><img src="assets/tools-designproduct.png" alt="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" title="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" width="332" height="65" /></a>
+  <a href="#tools"><img src="assets/tools-designproduct-2.png" alt="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" title="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" width="332" height="65" /></a>
   <br /><br />
-  <a href="#tools"><img src="assets/tools-aidev.png" alt="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" title="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" width="380" height="65" /></a>
+  <a href="#tools"><img src="assets/tools-aidev-2.png" alt="AI & development: Claude · Claude Code · Codex · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" title="AI & development: Claude · Claude Code · Codex · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" width="380" height="65" /></a>
 </p>
 
 <br />
