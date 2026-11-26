@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/areas-band.svg" alt="Product Strategy · Design Leadership · UX/UI and Interaction Design · Design Systems · Research and Validation · AI-assisted Development" width="100%" />
+  <a href="#"><img src="assets/areas-band.svg" alt="Product Strategy · Design Leadership · UX/UI and Interaction Design · Design Systems · Research and Validation · AI-assisted Development" width="100%" /></a>
 </p>
 
 <h3 align="center">Hi, I'm María.</h3>
@@ -36,9 +36,9 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="assets/tools-designproduct.png" alt="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" title="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" width="332" height="65" />
+  <a href="#tools"><img src="assets/tools-designproduct.png" alt="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" title="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" width="332" height="65" /></a>
   <br /><br />
-  <img src="assets/tools-aidev.png" alt="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" title="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" width="380" height="65" />
+  <a href="#tools"><img src="assets/tools-aidev.png" alt="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" title="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" width="380" height="65" /></a>
 </p>
 
 <br />
@@ -46,7 +46,7 @@
 <h3 align="center">What's next</h3>
 
 <p align="center">
-  <img src="assets/status-open.png" alt="Open to new opportunities" width="273" height="34" />
+  <a href="#whats-next"><img src="assets/status-open.png" alt="Open to new opportunities" width="273" height="34" /></a>
 </p>
 
 <p align="center">
