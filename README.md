@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tagline.svg" alt="10+ years designing complex products · Former Head of Design · Designing in code with AI" width="600" />
+  <img src="assets/tagline.svg" alt="10+ years designing complex products · Former Head of Design · Designing in code with AI" width="100%" />
 </p>
 
 <p align="center"><sub>Product strategy · End-to-end UX/UI · Design systems · Design leadership · Brand identity · Designing in code with AI</sub></p>
