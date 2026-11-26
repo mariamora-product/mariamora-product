@@ -25,11 +25,7 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="assets/tools-design-v.png" alt="Design: Figma · Miro · Adobe Creative Cloud" title="Design: Figma · Miro · Adobe Creative Cloud" width="216" height="65" />
+  <img src="assets/tools-designproduct.png" alt="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" title="Design & product: Figma · Miro · Adobe Creative Cloud · Jira · Confluence · Amplitude · FullStory" width="332" height="65" />
   <br /><br />
-  <img src="assets/tools-product-v.png" alt="Product & data: Jira · Confluence · Amplitude · FullStory" title="Product & data: Jira · Confluence · Amplitude · FullStory" width="216" height="65" />
-  <br /><br />
-  <img src="assets/tools-ai-v.png" alt="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" title="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" width="216" height="65" />
-  <br /><br />
-  <img src="assets/tools-dev-v.png" alt="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" title="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" width="216" height="65" />
+  <img src="assets/tools-aidev.png" alt="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" title="AI & development: Claude · Claude Code · ChatGPT · Higgsfield · GitHub · Netlify · Cloudflare Pages · Playwright" width="380" height="65" />
 </p>
