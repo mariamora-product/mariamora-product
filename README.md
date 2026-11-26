@@ -24,21 +24,16 @@
 
 <h3 align="center">Tools</h3>
 
-<p align="center"><sub>DESIGN</sub><br />
-  <img src="assets/tools/figma.png" alt="Figma · Figma AI · FigJam" title="Figma · Figma AI · FigJam" width="48" height="48" />&nbsp;
-  <img src="assets/tools/miro.png" alt="Miro" title="Miro" width="48" height="48" />&nbsp;
-  <img src="assets/tools/adobe.png" alt="Adobe Creative Cloud" title="Adobe Creative Cloud" width="48" height="48" />&nbsp;
-</p>
-
-<p align="center"><sub>PRODUCT &AMP; DATA</sub><br />
-  <img src="assets/tools/jira.png" alt="Jira" title="Jira" width="48" height="48" />&nbsp;
-  <img src="assets/tools/confluence.png" alt="Confluence" title="Confluence" width="48" height="48" />&nbsp;
-  <img src="assets/tools/amplitude.png" alt="Amplitude" title="Amplitude" width="48" height="48" />&nbsp;
-  <img src="assets/tools/fullstory.png" alt="FullStory" title="FullStory" width="48" height="48" />&nbsp;
-</p>
-
-<p align="center"><sub>AI</sub><br />
-  <img src="assets/tools/claude.png" alt="Claude" title="Claude" width="48" height="48" />&nbsp;
-  <img src="assets/tools/codex.png" alt="Codex" title="Codex" width="48" height="48" />&nbsp;
-  <img src="assets/tools/higgsfield.png" alt="Higgsfield" title="Higgsfield" width="48" height="48" />&nbsp;
+<p align="center">
+  <img src="assets/tools/figma-w.png" alt="Figma · Figma AI · FigJam" title="Figma · Figma AI · FigJam" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/miro-w.png" alt="Miro" title="Miro" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/jira-w.png" alt="Jira" title="Jira" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/confluence-w.png" alt="Confluence" title="Confluence" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/amplitude-w.png" alt="Amplitude" title="Amplitude" width="56" height="56" />&nbsp;&nbsp;
+  <br />
+  <img src="assets/tools/fullstory-w.png" alt="FullStory" title="FullStory" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/claude-w.png" alt="Claude" title="Claude" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/codex-w.png" alt="Codex" title="Codex" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/higgsfield-w.png" alt="Higgsfield" title="Higgsfield" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/adobe-w.png" alt="Adobe Creative Cloud" title="Adobe Creative Cloud" width="56" height="56" />&nbsp;&nbsp;
 </p>
