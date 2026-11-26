@@ -42,7 +42,10 @@
 <h3 align="center">What's next</h3>
 
 <p align="center">
-  Open to new opportunities.<br />
+  <img src="assets/status-open.png" alt="Open to new opportunities" width="273" height="34" />
+</p>
+
+<p align="center">
   Currently exploring AI-assisted product development, design engineering and new workflows<br />that connect product strategy, design and implementation.
 </p>
 
