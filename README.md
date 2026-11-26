@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tagline-band-2.svg" alt="Former Head of Design · Designing in code with AI" width="100%" />
+  <img src="assets/tagline-band-3.svg" alt="Designing in code with AI" width="100%" />
 </p>
 
 <p align="center">10+ years designing complex products</p>
