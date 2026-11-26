@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/tagline-band.svg" alt="10+ years designing complex products · Former Head of Design · Designing in code with AI" width="100%" />
+  <img src="assets/tagline-band-2.svg" alt="Former Head of Design · Designing in code with AI" width="100%" />
 </p>
+
+<p align="center">10+ years designing complex products</p>
 
 <p align="center">
   <a href="https://mariamoragarcia.com"><img src="assets/pill-portfolio.png" alt="Portfolio" height="42" /></a>
