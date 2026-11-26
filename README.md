@@ -2,8 +2,6 @@
   <img src="assets/tagline-band.svg" alt="10+ years designing complex products · Former Head of Design · Designing in code with AI" width="100%" />
 </p>
 
-<p align="center"><sub>Product strategy · End-to-end UX/UI · Design systems · Design leadership · Brand identity · Designing in code with AI</sub></p>
-
 <p align="center">
   <a href="https://mariamoragarcia.com"><img src="assets/pill-portfolio.png" alt="Portfolio" height="42" /></a>
   <a href="https://www.linkedin.com/in/mar%C3%ADa-mora/"><img src="assets/pill-linkedin.png" alt="LinkedIn" height="42" /></a>
