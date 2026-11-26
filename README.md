@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/band-static.png" alt="Designing in code with AI" width="100%" />
+  <img src="assets/areas-band.svg" alt="Product Strategy · Design Leadership · UX/UI and Interaction Design · Design Systems · Research and Validation · AI-assisted Development" width="100%" />
 </p>
 
 <h3 align="center">Hi, I'm María.</h3>
@@ -14,14 +14,6 @@
   <a href="https://www.linkedin.com/in/mar%C3%ADa-mora/"><img src="assets/pill-linkedin-glow.svg" alt="LinkedIn" height="42" /></a>
   <a href="mailto:design@mariamoragarcia.com"><img src="assets/pill-email-glow.svg" alt="Email" height="42" /></a>
   <a href="https://mariamoragarcia.com/maria-mora-cv.pdf"><img src="assets/pill-cv-glow.svg" alt="CV" height="42" /></a>
-</p>
-
-<br />
-
-<h3 align="center">Areas of expertise</h3>
-
-<p align="center">
-  <img src="assets/areas.png" alt="Product Strategy · Design Leadership · UX/UI and Interaction Design · Design Systems · Research and Validation · AI-assisted Development" width="600" />
 </p>
 
 <br />
