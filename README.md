@@ -2,7 +2,7 @@
   <img src="assets/areas-band.svg" alt="Product Strategy · Design Leadership · UX/UI and Interaction Design · Design Systems · Research and Validation · AI-assisted Development" width="100%" />
 </p>
 
-<h3 align="center">Closing the gap between design and implementation.</h3>
+<h3 align="center">Hi, I'm María.</h3>
 
 <p align="center">
   Lead Product Designer &amp; Product Builder with 10+ years of design experience across complex B2B and B2C products.<br />
