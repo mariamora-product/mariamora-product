@@ -47,6 +47,13 @@
 
 <br />
 
+<h3 align="center">What's next</h3>
+
 <p align="center">
-  <a href="mailto:design@mariamoragarcia.com"><img src="assets/whats-next.png" alt="What's next: open to new opportunities. Product Design · Design Leadership · Design Engineering. Let's talk" width="100%" /></a>
+  Open to new opportunities.<br />
+  <sub>Product Design · Design Leadership · Design Engineering</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:design@mariamoragarcia.com"><img src="assets/pill-talk-glow.svg" alt="Let's talk" height="42" /></a>
 </p>
