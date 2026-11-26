@@ -6,6 +6,8 @@
 
 <p align="center">
   <a href="https://mariamoragarcia.com"><img src="assets/pill-portfolio.png" alt="Portfolio" height="42" /></a>
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-mora/"><img src="assets/pill-linkedin.png" alt="LinkedIn" height="42" /></a>
+  <a href="mailto:design@mariamoragarcia.com"><img src="assets/pill-email.png" alt="Email" height="42" /></a>
   <a href="https://mariamoragarcia.com/maria-mora-cv.pdf"><img src="assets/pill-cv.png" alt="CV" height="42" /></a>
 </p>
 
