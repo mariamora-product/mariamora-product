@@ -43,7 +43,7 @@
 <h3 align="center">What's next</h3>
 
 <p align="center">
-  <a href="#whats-next"><img src="assets/status-open-3.png" alt="Open to new opportunities" width="273" height="34" /></a>
+  <a href="#whats-next"><img src="assets/status-open-4.png" alt="Open to new opportunities in Product Design &amp; AI" width="462" height="34" /></a>
 </p>
 
 <p align="center">
