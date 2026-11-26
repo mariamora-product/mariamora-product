@@ -43,7 +43,7 @@
 
 <p align="center">
   Open to new opportunities.<br />
-  <sub>Product Design · Design Leadership · Design Engineering</sub>
+  <sub>Currently exploring AI-assisted product development, design engineering and new workflows<br />that connect product strategy, design and implementation.</sub>
 </p>
 
 <p align="center">
