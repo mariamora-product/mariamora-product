@@ -35,14 +35,6 @@
   <a href="https://mariamoragarcia.com/lab/smart-rodent-control"><img src="assets/card-src-2.png" alt="Smart Rodent Control: IoT pest control for a city's operations team. Case study" width="32%" /></a>
 </p>
 
-<p align="center"><sub>
-  <b>Humain</b> &nbsp;<a href="https://humain-demo.pages.dev">Live demo ↗</a> · <a href="https://github.com/mariamora-product/Humain">Source code ↗</a>
-  &emsp;&emsp;
-  <b>alligo</b> &nbsp;<a href="https://mariamoragarcia.com/lab/alligo">Case study ↗</a> · <a href="https://alligo.netlify.app">Live demo ↗</a>
-  &emsp;&emsp;
-  <b>Smart Rodent Control</b> &nbsp;<a href="https://mariamoragarcia.com/lab/smart-rodent-control">Case study ↗</a> · <a href="https://smart-rodent-control.netlify.app">Live demo ↗</a>
-</sub></p>
-
 <br />
 
 <h3 align="center">Tools</h3>
