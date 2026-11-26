@@ -27,9 +27,6 @@
   <a href="https://mariamoragarcia.com/lab/smart-rodent-control"><img src="assets/card-src-2.png" alt="Smart Rodent Control: IoT pest control for a city's operations team. Case study" width="32%" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/mariamora-product/Humain"><img src="assets/pill-humain-code.png" alt="Humain source code" width="250" height="42" /></a>
-</p>
 
 <br />
 
