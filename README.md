@@ -25,15 +25,14 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="assets/tools/figma-w.png" alt="Figma · Figma AI · FigJam" title="Figma · Figma AI · FigJam" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/miro-w.png" alt="Miro" title="Miro" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/jira-w.png" alt="Jira" title="Jira" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/confluence-w.png" alt="Confluence" title="Confluence" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/amplitude-w.png" alt="Amplitude" title="Amplitude" width="56" height="56" />&nbsp;&nbsp;
-  <br />
-  <img src="assets/tools/fullstory-w.png" alt="FullStory" title="FullStory" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/claude-w.png" alt="Claude" title="Claude" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/codex-w.png" alt="Codex" title="Codex" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/higgsfield-w.png" alt="Higgsfield" title="Higgsfield" width="56" height="56" />&nbsp;&nbsp;
-  <img src="assets/tools/adobe-w.png" alt="Adobe Creative Cloud" title="Adobe Creative Cloud" width="56" height="56" />&nbsp;&nbsp;
+  <img src="assets/tools/figma-d.png" alt="Figma · Figma AI · FigJam" title="Figma · Figma AI · FigJam" width="52" height="52" />
+  <img src="assets/tools/miro-d.png" alt="Miro" title="Miro" width="52" height="52" />
+  <img src="assets/tools/jira-d.png" alt="Jira" title="Jira" width="52" height="52" />
+  <img src="assets/tools/confluence-d.png" alt="Confluence" title="Confluence" width="52" height="52" />
+  <img src="assets/tools/amplitude-d.png" alt="Amplitude" title="Amplitude" width="52" height="52" />
+  <img src="assets/tools/fullstory-d.png" alt="FullStory" title="FullStory" width="52" height="52" />
+  <img src="assets/tools/claude-d.png" alt="Claude" title="Claude" width="52" height="52" />
+  <img src="assets/tools/codex-d.png" alt="Codex" title="Codex" width="52" height="52" />
+  <img src="assets/tools/higgsfield-d.png" alt="Higgsfield" title="Higgsfield" width="52" height="52" />
+  <img src="assets/tools/adobe-d.png" alt="Adobe Creative Cloud" title="Adobe Creative Cloud" width="52" height="52" />
 </p>
