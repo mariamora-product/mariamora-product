@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://mariamoragarcia.com"><img src="assets/pill-portfolio.svg" alt="Portfolio" height="40" /></a>
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-mora/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="40" /></a>
   <a href="mailto:design@mariamoragarcia.com"><img src="assets/pill-email.svg" alt="Email" height="40" /></a>
   <a href="https://mariamoragarcia.com/maria-mora-cv.pdf"><img src="assets/pill-cv.svg" alt="CV" height="40" /></a>
 </p>
