@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tagline-band-4.svg" alt="Designing in code with AI" width="100%" />
+  <img src="assets/hero-band.png" alt="Designing in code with AI. Team leadership and mentoring · Design strategy and roadmaps · Client and stakeholder management · End-to-end UX/UI · Design systems · Multi-brand, multi-market platforms · Payments and checkout · AI adoption" width="100%" />
 </p>
 
 <p align="center">10+ years designing complex products</p>
@@ -20,4 +20,10 @@
   <a href="https://humain-demo.pages.dev"><img src="assets/card-humain.png" alt="Humain: team costs and approvals for digital services companies. Live demo" width="32%" /></a>
   <a href="https://alligo.netlify.app"><img src="assets/card-alligo.png" alt="alligo: roadside assistance, a driver app and an insurer console. Live demo" width="32%" /></a>
   <a href="https://smart-rodent-control.netlify.app"><img src="assets/card-src.png" alt="Smart Rodent Control: IoT pest control for a city's operations team. Live demo" width="32%" /></a>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="assets/tools-band.png" alt="Design: Figma, Figma AI, FigJam, Miro, Adobe Creative Cloud · Product and data: Jira, Confluence, Amplitude, FullStory · AI: Claude, Codex, Higgsfield" width="100%" />
 </p>
