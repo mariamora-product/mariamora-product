@@ -25,14 +25,8 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="assets/tools/figma-d.png" alt="Figma · Figma AI · FigJam" title="Figma · Figma AI · FigJam" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/miro-d.png" alt="Miro" title="Miro" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/jira-d.png" alt="Jira" title="Jira" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/confluence-d.png" alt="Confluence" title="Confluence" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/amplitude-d.png" alt="Amplitude" title="Amplitude" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/fullstory-d.png" alt="FullStory" title="FullStory" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/claude-d.png" alt="Claude" title="Claude" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/codex-d.png" alt="Codex" title="Codex" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/higgsfield-d.png" alt="Higgsfield" title="Higgsfield" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/tools/adobe-d.png" alt="Adobe Creative Cloud" title="Adobe Creative Cloud" width="52" height="52" />
+  <img src="assets/tools-design.png" alt="Design: Figma · Miro · Adobe Creative Cloud" title="Design: Figma · Miro · Adobe Creative Cloud" width="140" height="65" />&emsp;&ensp;
+  <img src="assets/tools-product.png" alt="Product & data: Jira · Confluence · Amplitude · FullStory" title="Product & data: Jira · Confluence · Amplitude · FullStory" width="188" height="65" />&emsp;&ensp;
+  <img src="assets/tools-ai.png" alt="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" title="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" width="188" height="65" />&emsp;&ensp;
+  <img src="assets/tools-dev.png" alt="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" title="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" width="212" height="65" />
 </p>
