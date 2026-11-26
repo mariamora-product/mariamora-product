@@ -2,7 +2,7 @@
   <img src="assets/hero-band.png" alt="Designing in code with AI. Team leadership and mentoring · Design strategy and roadmaps · Client and stakeholder management · End-to-end UX/UI · Design systems · Multi-brand, multi-market platforms · Payments and checkout · AI adoption" width="100%" />
 </p>
 
-<p align="center">10+ years designing complex products</p>
+<p align="center">10+ years designing complex products, now with applied AI.</p>
 
 <p align="center">
   <a href="https://mariamoragarcia.com"><img src="assets/pill-portfolio.png" alt="Portfolio" height="42" /></a>
