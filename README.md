@@ -25,8 +25,11 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="assets/tools-design.png" alt="Design: Figma · Miro · Adobe Creative Cloud" title="Design: Figma · Miro · Adobe Creative Cloud" width="140" height="65" />&emsp;&ensp;
-  <img src="assets/tools-product.png" alt="Product & data: Jira · Confluence · Amplitude · FullStory" title="Product & data: Jira · Confluence · Amplitude · FullStory" width="188" height="65" />&emsp;&ensp;
-  <img src="assets/tools-ai.png" alt="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" title="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" width="188" height="65" />&emsp;&ensp;
-  <img src="assets/tools-dev.png" alt="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" title="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" width="212" height="65" />
+  <img src="assets/tools-design-v.png" alt="Design: Figma · Miro · Adobe Creative Cloud" title="Design: Figma · Miro · Adobe Creative Cloud" width="216" height="65" />
+  <br /><br />
+  <img src="assets/tools-product-v.png" alt="Product & data: Jira · Confluence · Amplitude · FullStory" title="Product & data: Jira · Confluence · Amplitude · FullStory" width="216" height="65" />
+  <br /><br />
+  <img src="assets/tools-ai-v.png" alt="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" title="AI & prototyping: Claude · Claude Code · ChatGPT · Higgsfield" width="216" height="65" />
+  <br /><br />
+  <img src="assets/tools-dev-v.png" alt="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" title="Development & deployment: GitHub · Netlify · Cloudflare Pages · Playwright" width="216" height="65" />
 </p>
